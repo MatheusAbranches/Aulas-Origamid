@@ -1,0 +1,21 @@
+.bicicleta {
+  height: 600px;
+  background-color: lightblue;
+  background-image: url("./img/bicicleta.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+
+
+  /*background: lightblue url("./img/bicicleta.jpg") no-repeat center cover; 
+  
+  ultilizando o "background" para definir todos os elementos necessarios para ele, desse modo fica um codigo limpo e organizado.*/
+}
+
+
+.pattern {
+    height: 300px;
+    background: lightcoral url("./img/pattern.svg");
+    background-size: ;
+
+}
